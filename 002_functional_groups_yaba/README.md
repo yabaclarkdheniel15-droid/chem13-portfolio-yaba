@@ -1,0 +1,5 @@
+# Functional Groups
+
+CHEM 13 – Organic Chemistry
+
+This folder contains activities, exercises, and learning outputs related to organic functional groups.

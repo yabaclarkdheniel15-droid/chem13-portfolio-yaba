@@ -167,19 +167,6 @@ This repository will be updated throughout the course as new topics, activities,
 - [ ] **012 — Amines and Biochemistry**
 - [ ] **013 — Reflections and Applied Entries**
 
-### 📊 General Activity Requirements
-
-- [ ] Complete assigned activities
-- [ ] Organize outputs in the corresponding topic folder
-- [ ] Verify chemistry and numerical information
-- [ ] Verify molecular structures and terminology
-- [ ] Use credible and traceable sources
-- [ ] Format references in APA style where required
-- [ ] Include AI-use disclosure when required
-- [ ] Review files for accuracy and completeness
-- [ ] Check file naming and folder organization
-- [ ] Review outputs before submission
-
 ---
 
 ## 📝 Notes

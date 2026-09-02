@@ -89,24 +89,3 @@ chem13-portfolio-yaba/
 │
 └── 013_reflections_applied_entries_yaba/
     └── README.md
-
----
-
-🎯 Portfolio Purpose
-
-This portfolio serves as a centralized collection of my work for CHEM 13. It is intended to demonstrate my progress in understanding and applying concepts in organic chemistry through:
-
-Molecular structures and bonding
-Functional-group identification
-Organic compound classification
-Stereochemistry
-Organic reactions and mechanisms
-Properties and applications of organic compounds
-Chemical safety
-Chemical engineering applications
-Scientific communication
-Research and evidence-based learning
-Reflection and application of course concepts
-
----
-

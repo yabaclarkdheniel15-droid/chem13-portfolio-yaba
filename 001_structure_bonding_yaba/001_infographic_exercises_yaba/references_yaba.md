@@ -16,3 +16,9 @@
 
 ---
 
+# L-Carnitine
+
+- National Center for Biotechnology Information. (n.d.). L-Carnitine. PubChem. Retrieved September 2, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/10917
+- National Institutes of Health, Office of Dietary Supplements. (2022). Carnitine: Fact sheet for consumers. NIH Office of Dietary Supplements
+- Virmani, A., & Binienda, Z. (2022). The role of L-carnitine in mitochondria, prevention of metabolic inflexibility and disease initiation. Molecules, 27(11), 3401. https://doi.org/10.3390/molecules27113401
+- Reuter, S. E., & Evans, A. M. (2012). Carnitine and acylcarnitines: Pharmacokinetic, pharmacological and clinical aspects. Clinical Pharmacokinetics, 51(9), 553–572. https://doi.org/10.1007/BF03261931
